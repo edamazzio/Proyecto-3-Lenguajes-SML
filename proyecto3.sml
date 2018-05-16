@@ -3,7 +3,7 @@ Instituto Tecnologico de Costa Rica
 Escuela de Computacion
 Curso de lenguajes de programacion
 Proyecto 3
-Esteban Gonzalez Damassio
+Esteban González Damazio
 Alejandro Jimenez Gamboa
 *)
 
